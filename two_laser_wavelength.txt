@@ -1,0 +1,63 @@
+BOTHLASERS1.csv, 0.684708 s (Lomb-Scargle p/m 0.013866 s), 0.842100 s (FFT p/m 0.028070 s), 0.693653 (Visibility p/m 0.023877) 0.000000684708, (LS wavelength p/m 0.000000014550), 0.000000842100 (fft wavelength p/m 0.000000028912)
+
+
+BOTHLASERS2.csv, 0.683772 s (Lomb-Scargle p/m 0.013903 s), 0.631250 s (FFT p/m 0.023380 s), 0.824022 (Visibility p/m 0.030200) 0.000000683772, (LS wavelength p/m 0.000000014587), 0.000000631250 (fft wavelength p/m 0.000000024011)
+
+BOTHLASERS3.csv, 0.657421 s (Lomb-Scargle p/m 0.016600 s), 0.383125 s (FFT p/m 0.011973 s), 0.719983 (Visibility p/m 0.025093) 0.000000657421, (LS wavelength p/m 0.000000017257), 0.000000383125 (fft wavelength p/m 0.000000012356)
+
+BOTHLASERS4.csv, 0.655979 s (Lomb-Scargle p/m 0.011493 s), 0.750000 s (FFT p/m 0.125000 s), 0.674261 (Visibility p/m 0.023001) 0.000000655979, (LS wavelength p/m 0.000000012149), 0.000000750000 (fft wavelength p/m 0.000000125750)
+
+BOTHLASERS5.csv, 0.667857 s (Lomb-Scargle p/m 0.018065 s), 0.648600 s (FFT p/m 0.021620 s), 0.736788 (Visibility p/m 0.025885) 0.000000667857, (LS wavelength p/m 0.000000018733), 0.000000648600 (fft wavelength p/m 0.000000022269)
+
+Laser+Blue1.csv, 0.473164 s (Lomb-Scargle p/m 0.007286 s), 0.486857 s (FFT p/m 0.029808 s), 0.584922 (Visibility p/m 0.019166) 0.000000473164, (LS wavelength p/m 0.000000007759), 0.000000486857 (fft wavelength p/m 0.000000030294)
+
+Laser+Blue2.csv, 0.482002 s (Lomb-Scargle p/m 0.008780 s), 0.303523 s (FFT p/m 0.006898 s), 0.573923 (Visibility p/m 0.018717) 0.000000482002, (LS wavelength p/m 0.000000009262), 0.000000303523 (fft wavelength p/m 0.000000007202)
+
+Laser+Blue3.csv, 0.474502 s (Lomb-Scargle p/m 0.007224 s), 0.480174 s (FFT p/m 0.052193 s), 0.575038 (Visibility p/m 0.018762) 0.000000474502, (LS wavelength p/m 0.000000007698), 0.000000480174 (fft wavelength p/m 0.000000052673)
+
+Laser+Blue4.csv, 0.481101 s (Lomb-Scargle p/m 0.007421 s), 0.324622 s (FFT p/m 0.010821 s), 0.618422 (Visibility p/m 0.020566) 0.000000481101, (LS wavelength p/m 0.000000007902), 0.000000324622 (fft wavelength p/m 0.000000011145)
+
+Laser+Blue5.csv, 0.481465 s (Lomb-Scargle p/m 0.010006 s), 0.377948 s (FFT p/m 0.019685 s), 0.618422 (Visibility p/m 0.020566) 0.000000481465, (LS wavelength p/m 0.000000010488), 0.000000377948 (fft wavelength p/m 0.000000020063)
+
+Laser+Orange1.csv, 0.899354 s (Lomb-Scargle p/m 0.015944 s), 1.171985 s (FFT p/m 0.034470 s), 0.322332 (Visibility p/m 0.009579) 0.000000899354, (LS wavelength p/m 0.000000016844), 0.000001171985 (fft wavelength p/m 0.000000035642)
+
+Laser+Orange2.csv, 0.912166 s (Lomb-Scargle p/m 0.018698 s), 1.032517 s (FFT p/m 0.035604 s), 0.322332 (Visibility p/m 0.009579) 0.000000912166, (LS wavelength p/m 0.000000019611), 0.000001032517 (fft wavelength p/m 0.000000036637)
+
+Laser+Orange3.csv, 0.886518 s (Lomb-Scargle p/m 0.021770 s), 0.653833 s (FFT p/m 0.027243 s), 0.441940 (Visibility p/m 0.013666) 0.000000886518, (LS wavelength p/m 0.000000022657), 0.000000653833 (fft wavelength p/m 0.000000027897)
+
+Laser+Orange4.csv, 0.918753 s (Lomb-Scargle p/m 0.018600 s), 1.239043 s (FFT p/m 0.035401 s), 0.480824 (Visibility p/m 0.015090) 0.000000918753, (LS wavelength p/m 0.000000019519), 0.000001239043 (fft wavelength p/m 0.000000036640)
+
+Laser+Orange5.csv, 0.912638 s (Lomb-Scargle p/m 0.018029 s), 0.830806 s (FFT p/m 0.026800 s), 0.431235 (Visibility p/m 0.013283) 0.000000912638, (LS wavelength p/m 0.000000018942), 0.000000830806 (fft wavelength p/m 0.000000027631)
+
+Laser+Red1.csv, 0.648792 s (Lomb-Scargle p/m 0.008426 s), 0.952961 s (FFT p/m 0.137928 s), 0.711926 (Visibility p/m 0.024718) 0.000000648792, (LS wavelength p/m 0.000000009075), 0.000000952961 (fft wavelength p/m 0.000000138881)
+
+Laser+Red2.csv, 0.659033 s (Lomb-Scargle p/m 0.008364 s), 0.811885 s (FFT p/m 0.062453 s), 0.689772 (Visibility p/m 0.023701) 0.000000659033, (LS wavelength p/m 0.000000009023), 0.000000811885 (fft wavelength p/m 0.000000063265)
+
+Laser+Red3.csv, 0.652244 s (Lomb-Scargle p/m 0.008612 s), 0.800684 s (FFT p/m 0.021071 s), 0.843096 (Visibility p/m 0.031191) 0.000000652244, (LS wavelength p/m 0.000000009264), 0.000000800684 (fft wavelength p/m 0.000000021871)
+
+Laser+Red4.csv, 0.659221 s (Lomb-Scargle p/m 0.009002 s), 0.368378 s (FFT p/m 0.009956 s), 0.843096 (Visibility p/m 0.031191) 0.000000659221, (LS wavelength p/m 0.000000009662), 0.000000368378 (fft wavelength p/m 0.000000010325)
+
+Laser+Red5.csv, 0.638479 s (Lomb-Scargle p/m 0.008121 s), 0.713475 s (FFT p/m 0.017837 s), 0.536490 (Visibility p/m 0.017220) 0.000000638479, (LS wavelength p/m 0.000000008760), 0.000000713475 (fft wavelength p/m 0.000000018550)
+
+Multiple changing dominant wavelengths for white light (as expected) - check FFT or LS images
+
+Laser+White1.csv, 0.596269 s (Lomb-Scargle p/m 0.307059 s), 2.161667 s (FFT p/m 9.006944 s), 0.277646 (Visibility p/m 0.008150) 0.000000596269, (LS wavelength p/m 0.000000307655), 0.000002161667 (fft wavelength p/m 0.000009009106)
+
+Laser+White2.csv, 0.576479 s (Lomb-Scargle p/m 0.087712 s), 0.683100 s (FFT p/m 0.095634 s), 0.265089 (Visibility p/m 0.007757) 0.000000576479, (LS wavelength p/m 0.000000088288), 0.000000683100 (fft wavelength p/m 0.000000096317)
+
+Laser+White3.csv, 0.604093 s (Lomb-Scargle p/m 0.031533 s), 0.825647 s (FFT p/m 0.169986 s), 0.261022 (Visibility p/m 0.007630) 0.000000604093, (LS wavelength p/m 0.000000032137), 0.000000825647 (fft wavelength p/m 0.000000170812)
+
+Laser+White4.csv, 0.580618 s (Lomb-Scargle p/m 0.079647 s), 0.473318 s (FFT p/m 0.075301 s), 0.259299 (Visibility p/m 0.007577) 0.000000580618, (LS wavelength p/m 0.000000080227), 0.000000473318 (fft wavelength p/m 0.000000075774)
+
+Laser+White5.csv, 0.609241 s (Lomb-Scargle p/m 0.029721 s), 0.518053 s (FFT p/m 0.109064 s), 0.261022 (Visibility p/m 0.007630) 0.000000609241, (LS wavelength p/m 0.000000030330), 0.000000518053 (fft wavelength p/m 0.000000109582)
+
+Laser+Lamp1.csv, 0.942810 s (Lomb-Scargle p/m 0.060994 s), 1.101000 s (FFT p/m 0.122333 s), 0.211946 (Visibility p/m 0.006128) 0.000000942810, (LS wavelength p/m 0.000000061937), 0.000001101000 (fft wavelength p/m 0.000000123434)
+
+Laser+Lamp2.csv, 0.975729 s (Lomb-Scargle p/m 0.072043 s), 1.217125 s (FFT p/m 0.152141 s), 0.358535 (Visibility p/m 0.010773) 0.000000975729, (LS wavelength p/m 0.000000073019), 0.000001217125 (fft wavelength p/m 0.000000153358)
+
+Laser+Lamp3.csv, 0.987447 s (Lomb-Scargle p/m 0.060335 s), 0.995143 s (FFT p/m 0.106622 s), 0.391040 (Visibility p/m 0.011876) 0.000000987447, (LS wavelength p/m 0.000000061323), 0.000000995143 (fft wavelength p/m 0.000000107618)
+
+Laser+Lamp4.csv, 0.975062 s (Lomb-Scargle p/m 0.062856 s), 0.983455 s (FFT p/m 0.089405 s), 0.362072 (Visibility p/m 0.010892) 0.000000975062, (LS wavelength p/m 0.000000063831), 0.000000983455 (fft wavelength p/m 0.000000090388)
+
+Laser+Lamp5.csv, 0.986139 s (Lomb-Scargle p/m 0.067797 s), 0.558462 s (FFT p/m 0.042959 s), 0.391040 (Visibility p/m 0.011876) 0.000000986139, (LS wavelength p/m 0.000000068783), 0.000000558462 (fft wavelength p/m 0.000000043517)
+
